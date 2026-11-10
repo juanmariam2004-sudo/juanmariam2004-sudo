@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Juan Mariam Joseph 👋
 
-<!--
-**juanmariam2004-sudo/juanmariam2004-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering Graduate
 
-Here are some ideas to get you started:
+I'm interested in software development and data analytics. I enjoy working with programming languages, exploring data, and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+
+**Programming Languages**
+- Python
+- Java
+- C
+- R
+
+**Database**
+- SQL
+- MySQL
+
+**Data Analytics**
+- Microsoft Excel
+- Power BI
+- Tableau
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+**Other Technologies**
+- HTML
+- CSS
+- JavaScript
+- Machine Learning
+
+### 📊 Areas of Interest
+- Software Development
+- Data Analytics
+- Database Management
+- Machine Learning
+
+### 🚀 Projects
+- Blockchain-Based Crowdfunding Platform
+- We Connect – Linktree Clone
+- Zudio Sales Dashboard
+- Amazon E-commerce Sales Dashboard
+
+### 🎓 Education
+B.Tech in Computer Science and Engineering
+
+### 📫 Connect with Me
+- GitHub: https://github.com/juanmariam2004-sudo
